@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalRemake", "PortalRemake.csproj", "{6F57A9BF-AC8B-65C8-6F57-A0A30C3AEFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalRemake.Editor", "PortalRemake.Editor.csproj", "{5EEBB735-E69F-AF2E-FBCE-0D08846A73AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F57A9BF-AC8B-65C8-6F57-A0A30C3AEFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F57A9BF-AC8B-65C8-6F57-A0A30C3AEFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F57A9BF-AC8B-65C8-6F57-A0A30C3AEFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F57A9BF-AC8B-65C8-6F57-A0A30C3AEFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEBB735-E69F-AF2E-FBCE-0D08846A73AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEBB735-E69F-AF2E-FBCE-0D08846A73AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEBB735-E69F-AF2E-FBCE-0D08846A73AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEBB735-E69F-AF2E-FBCE-0D08846A73AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
